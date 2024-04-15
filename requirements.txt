@@ -1,0 +1,7 @@
+dionysus==2.0.8
+gudhi==3.8.0
+matplotlib==3.5.3
+numpy==1.22.4
+plotly==5.3.1
+scikit-learn==0.23.0
+scipy==1.10.1
